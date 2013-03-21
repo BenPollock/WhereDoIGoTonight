@@ -1,0 +1,10 @@
+== Where Do I Go
+
+*Description*
+
+This web application is used to determine which clubs in London, ON are best on any given night.  Each club is assigned a multiplier value (higher for the better clubs).  In addition, on nights when clubs have events the club is multiplied even further based on the event and the event is displayed if the club is chosen.  Clubs are chosen at random, with the multiplier value increasing the chancen of a club selection.  Once a club is chosen, its name, its event (if applicable) and its location on google maps will be displayed.
+
+<b>How To Use</b>
+
+This site was originally on hostgator but can be run off a local server.  For development purposes, it was run on XAMMP.  You will need to import the appropriate database.  Then, click on the "Take Me Somewhere Button" which will randomly select a club.
+
