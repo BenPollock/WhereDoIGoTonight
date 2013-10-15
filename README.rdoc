@@ -1,5 +1,9 @@
 == Where Do I Go
 
+*Disclaimer*
+
+As my first PHP application, please excuse the messy spaghetti code.  I may refactor this in the future, but for such a simple application, it may not be necessary.
+
 *Description*
 
 This web application is used to determine which clubs in London, ON are best on any given night.  Each club is assigned a multiplier value (higher for the better clubs).  In addition, on nights when clubs have events the club is multiplied even further based on the event and the event is displayed if the club is chosen.  Clubs are chosen at random, with the multiplier value increasing the chancen of a club selection.  Once a club is chosen, its name, its event (if applicable) and its location on google maps will be displayed.
